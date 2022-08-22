@@ -1,3 +1,6 @@
+# 一定要记住2023年8月22日要更换Github Token！！！&nbsp;&nbsp;2024年8月22日更换Azure客户端密码！！！
+
+
 > 通过官网提供的SDK和GitHub Action 实现自动化调用API [官网SDK地址](https://docs.microsoft.com/zh-cn/graph/sdks/sdk-installation?view=graph-rest-1.0)
 
 ## 前提：
