@@ -1,4 +1,4 @@
-# Github Token虽已设置为无限期，为防止政策改变，每年8月22日检查一次！！！&nbsp;&nbsp;一定要记住2024年8月22日更换Azure客户端密码！！！
+# Github Token虽已设置为无限期，为防止政策改变，每年4月22日检查一次！！！&nbsp;&nbsp;一定要记住2026年4月22日更换Azure客户端密码！！！
 
 
 > 通过官网提供的SDK和GitHub Action 实现自动化调用API [官网SDK地址](https://docs.microsoft.com/zh-cn/graph/sdks/sdk-installation?view=graph-rest-1.0)
